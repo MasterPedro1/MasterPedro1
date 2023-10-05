@@ -4,8 +4,8 @@
 
 - Tacos de Tripa
 - One Piece
-- Porcha
-- 4 - Town
+- Mamás solteras
+- 1D
 
 ![Shitpost](/Multimedia/IMG-1377.JPG)
 
