@@ -17,7 +17,7 @@ Además de mi pasión por los videojuegos, también tengo experiencia en el desa
 
 - **Habilidades en Desarrollo Web:**
   - Frontend: HTML, CSS, JavaScript (React.js)
-  - Backend: Node.js, Express
+  - Backend: Node.js
 
 
 ## Aprendizaje Continuo
