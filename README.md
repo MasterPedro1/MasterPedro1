@@ -13,7 +13,7 @@ Estudiante de Programación de Videojuegos y Desarrollador Web
 
 ## Desarrollo Web
 
-Además de mi pasión por los videojuegos, también tengo experiencia en el desarrollo web. Me encanta crear sitios web interactivos y visualmente atractivos. Aquí hay algunas de mis habilidades y proyectos relacionados con la web:
+Además de mi pasión por los videojuegos, también tengo experiencia en el desarrollo web. Me encanta crear sitios web interactivos y visualmente atractivos. Aquí hay algunas de mis habilidades relacionadas con la web:
 
 - **Habilidades en Desarrollo Web:**
   - Frontend: HTML, CSS, JavaScript (React.js)
