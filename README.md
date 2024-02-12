@@ -24,11 +24,6 @@ Además de mi pasión por los videojuegos, también tengo experiencia en el desa
 
 Estoy siempre en busca de nuevos desafíos y oportunidades para aprender y mejorar mis habilidades. Mi objetivo es contribuir al emocionante mundo de la programación de videojuegos y la creación web, mientras colaboro con mentes creativas y apasionadas como la tuya.
 
-## ¡Hablemos!
-
-Estoy abierto a la colaboración en proyectos interesantes y a conocer a otros entusiastas de la programación. Si compartes intereses similares o simplemente quieres charlar sobre desarrollo de videojuegos o web, ¡no dudes en contactarme!
-
-[LinkedIn](enlace a tu perfil de LinkedIn) | [Sitio Web/Blog](enlace a tu sitio web o blog) | [Twitter](enlace a tu cuenta de Twitter)
 
 ¡Gracias por visitar mi perfil! Espero que disfrutes explorando mis proyectos y contribuciones.
 
