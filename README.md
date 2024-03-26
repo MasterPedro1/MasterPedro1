@@ -9,7 +9,7 @@ Greetings from the world of video game programming and web development! I am a p
 
 ## Experience in VideoGame Programming
 
-- **Languages and Technologies: C#, Unity, Unreal Engine
+- **Languages and Technologies: C#, Unity, Unreal Engine**
 
 ## Web Development
 
