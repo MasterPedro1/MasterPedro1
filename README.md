@@ -27,5 +27,5 @@ I am always in search of new challenges and opportunities to learn and improve m
 Thank you for visiting my profile! I hope you enjoy exploring my projects and contributions.
 
 
-![Shitpost](/Multimedia/IMG-1377.JPG)
+
 
