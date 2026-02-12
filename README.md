@@ -1,31 +1,66 @@
-# Hi I´m Master Pedro 👋
+# Hi, I'm Pedro 👋  
+Fullstack .NET Developer | C# | ASP.NET MVC | SQL Server | React
 
+---
 
-Student of Video Game Programming and Web Development
+## 👨‍💻 About Me
 
-## About Me
+I am a Fullstack Developer with hands-on experience in **ASP.NET MVC, C#, and SQL Server**, focused on building scalable enterprise applications and optimizing business processes.
 
-Greetings from the world of video game programming and web development! I am a passionate student who enjoys exploring and creating interactive experiences through programming. My main focus is on game development, where I combine creativity and technical skills to bring captivating digital worlds to life.
+I specialize in backend development, RESTful API design, database performance optimization, and implementing clean architecture principles (SOLID, OOP).  
 
-## Experience in VideoGame Programming
+I also have experience with modern frontend technologies such as **React, Next.js, and Bootstrap**, allowing me to build complete end-to-end solutions.
 
-- **Languages and Technologies: C#, Unity, Unreal Engine**
+With a background in game development, I bring strong problem-solving skills and structured programming practices into real-world business applications.
 
-## Web Development
+---
 
-In addition to my passion for video games, I also have experience in web development. I love creating interactive and visually appealing websites. Here are some of my web-related skills:
+## 🛠 Tech Stack
 
-- **Web Development Skills:**
-  - Frontend: HTML, CSS, JavaScript (React.js)
-  - Backend: Node.js
+### Backend
+- C#
+- ASP.NET MVC
+- Web API
+- SQL Server
+- Entity Framework
+- RESTful APIs
 
+### Frontend
+- JavaScript
+- React
+- Next.js
+- Razor Views
+- Bootstrap 5
+- Tailwind CSS
 
-## Continuous Learning
+### Architecture & Practices
+- Object-Oriented Programming (OOP)
+- SOLID Principles
+- Clean Code
+- Query Optimization
 
-I am always in search of new challenges and opportunities to learn and improve my skills. My goal is to contribute to the exciting world of video game programming and web creation, while collaborating with creative and passionate minds like yours.
+### Tools
+- Git
+- Version Control
+- PDF Processing & External Library Integration
 
-Thank you for visiting my profile! I hope you enjoy exploring my projects and contributions.
+---
 
+## 🎮 Game Development Background
 
+- C#
+- Unity
+- Unreal Engine
 
+Game development strengthened my understanding of architecture, performance optimization, and structured programming.
 
+---
+
+## 🚀 What I’m Currently Focused On
+
+- Improving backend architecture patterns
+- Writing scalable and maintainable APIs
+- Database performance tuning
+- Building efficient enterprise solutions
+
+---
